@@ -23,7 +23,7 @@ program
 
 program
   .command('init')
-  .description('Generate a new project')
+  .description('生产模板')
   .alias('i')
   .action(() => {
     require('../command/init')()

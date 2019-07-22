@@ -23,7 +23,7 @@ module.exports = () => {
 
     const gitUrl = templates[tplName].url;
     // 复制项目模板到对应项目
-    let cmdStr = `git clone ${gitUrl} ${projectName} && cd ${projectName} && rm -rf .git && git init && git add . && git commit -m 'First commit'`;
+    let cmdStr = `git clone ${gitUrl} ${projectName} && cd ${projectName} && rm -rf .git && rm README.md && git init && git add . && git commit -m 'First commit'`;
 
     console.log(chalk.white('\n 开始生成模板'))
     exec(cmdStr, (error, stdout, stderr) => {

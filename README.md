@@ -23,4 +23,3 @@ git remote add origin '你的项目的git地址'
 
 ## to-do
 - 实现add功能
-- 优化创建项目后的提交记录
