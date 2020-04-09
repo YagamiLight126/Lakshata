@@ -8,7 +8,7 @@ module.exports = {
     url: 'https://github.com/YagamiLight126/C.C.jsx.git',
     branch: 'master',
   },
-  'react-js': {
+  'ts': {
     url: 'https://github.com/YagamiLight126/C.C.ts.git',
     branch: 'master',
   },
