@@ -1,7 +1,7 @@
 # 简单前端脚手架 Lakshata
 
 ## 概述
-一个简单的前端项目脚手架，用于生成常用的前端模板代码
+一个简单的前端项目脚手架，用于生成自用的前端模板代码，
 
 ## 使用
 ```
@@ -16,10 +16,9 @@ git remote add origin '你的项目的git地址'
 ## 有效的模板
 - react-ts
 - react-js
+- ts
 
 ## Commands
 - list        显示所有模板
 - init        用一个模板生成项目
 
-## to-do
-- 实现add功能
