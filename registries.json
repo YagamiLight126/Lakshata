@@ -1,0 +1,10 @@
+{
+  "react+ts": {
+    "home": "https://github.com/YagamiLight126/C.C.tsx.git",
+    "branch": "master"
+  },
+  "ts": {
+    "home": "https://github.com/YagamiLight126/C.C.ts.git",
+    "branch": "master"
+  }
+}
