@@ -1,10 +1,14 @@
 {
-  "react+ts": {
-    "home": "https://github.com/YagamiLight126/C.C.tsx.git",
-    "branch": "master"
+  "tsx-component": {
+    "home": "https://github.com/YagamiLight126/C.C..git",
+    "branch": "tsx-component"
   },
   "ts": {
-    "home": "https://github.com/YagamiLight126/C.C.ts.git",
+    "home": "https://github.com/YagamiLight126/C.C..git",
     "branch": "master"
+  },
+  "tsx-page": {
+    "home": "https://github.com/YagamiLight126/C.C..git",
+    "branch": "tsx-page"
   }
 }

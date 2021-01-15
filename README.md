@@ -4,19 +4,7 @@
 
 一个简单的前端项目脚手架，用于生成自用的前端模板代码，
 
-## 使用
+## toDo
 
-```
-npm install -g lakshata
-lakshata init
-```
-
-## 有效的远端模板
-
-- react-ts
-- ts
-
-## 常用 Commands
-
-- ls 显示所有模板
-- init 用一个模板生成项目
+- 补充测试文件
+- 输入 name 后需要修改 package 文件
